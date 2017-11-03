@@ -7,16 +7,10 @@ By Tomohiro Sato
 
 1.0.3
 
-## Hours took
+## Screenshots
+![alt text](https://github.com/Tomothehiro/VR-Maze/blob/master/Screenshots/20170208_182219000_iOS.png)
+![alt text](https://github.com/Tomothehiro/VR-Maze/blob/master/Screenshots/20170208_182334000_iOS.png)
 
-24 hours
+## Youtube
 
-## I Liked
-
-I liked how I was able to make  an actual game that I could interact with and let my friend play on.
-
-## Challenging moment
-
-It was challenging at first to animate the same object using script function and the animation transition when the animation tries to stay at its initial location set. 
-The lighting was also difficult to adjust when varieties of shaders were used. Using the HLSL learned in course 2 also made that object very dark compared to other shaders.
-Changing the very last line of HLSL from FallBack "Diffuse" to FallBack "Unlit" solved the problem.
+https://youtu.be/C5GT7Av1_8o
